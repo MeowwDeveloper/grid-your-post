@@ -39,7 +39,7 @@ body {
 
 .preview-section {
   flex: 3;
-  max-height: 1200px;
+  width: auto;
 }
 
 .controls {
